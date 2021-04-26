@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://neoacademic.github.io</id>
     <title>Neo学术</title>
-    <updated>2021-04-26T13:51:19.420Z</updated>
+    <updated>2021-04-26T14:02:04.936Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://neoacademic.github.io"/>
     <link rel="self" href="https://neoacademic.github.io/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://neoacademic.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Neo学术</rights>
     <entry>
-        <title type="html"><![CDATA[# 小绿豆的实验范式设计]]></title>
+        <title type="html"><![CDATA[小绿豆的实验范式设计]]></title>
         <id>https://neoacademic.github.io/post/xiao-lu-dou-de-shi-yan-fan-shi-she-ji/</id>
         <link href="https://neoacademic.github.io/post/xiao-lu-dou-de-shi-yan-fan-shi-she-ji/">
         </link>
@@ -125,7 +125,7 @@
 <hr class="footnotes-sep">
 <section class="footnotes">
 <ol class="footnotes-list">
-<li id="fn1" class="footnote-item"><p><a href="zotero://select/library/items/IIEEVDCS">Resolving the Limb Position Effect in Myoelectric Pattern Recognition</a> <a href="#fnref1" class="footnote-backref">↩︎</a></p>
+<li id="fn1" class="footnote-item"><p><a href="https://ieeexplore.ieee.org/abstract/document/5985538">Resolving the Limb Position Effect in Myoelectric Pattern Recognition</a> <a href="#fnref1" class="footnote-backref">↩︎</a></p>
 </li>
 </ol>
 </section>
