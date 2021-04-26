@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://neoacademic.github.io</id>
-    <title>Gridea</title>
-    <updated>2021-04-26T13:01:15.565Z</updated>
+    <title>Neo学术</title>
+    <updated>2021-04-26T13:05:24.446Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://neoacademic.github.io"/>
     <link rel="self" href="https://neoacademic.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>分享有趣的知识，做一个有趣的人啊~</subtitle>
     <logo>https://neoacademic.github.io/images/avatar.png</logo>
     <icon>https://neoacademic.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, Neo学术</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://neoacademic.github.io/post/hello-gridea/</id>
